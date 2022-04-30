@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSMacStringResourceTestAddin", "VSMacStringResourceTestAddin\VSMacStringResourceTestAddin.csproj", "{6ADAE8D9-0F2B-44CF-92E3-C953AD36E6A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ADAE8D9-0F2B-44CF-92E3-C953AD36E6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADAE8D9-0F2B-44CF-92E3-C953AD36E6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADAE8D9-0F2B-44CF-92E3-C953AD36E6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADAE8D9-0F2B-44CF-92E3-C953AD36E6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81214BB7-3B2D-4F14-AEBB-29A51AC305E3}
+	EndGlobalSection
+EndGlobal

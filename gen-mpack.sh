@@ -1,0 +1,1 @@
+"/Applications/Visual Studio (Preview).app/Contents/MacOS/vstool" setup pack "$(PWD)/bin/VSMacStringResourceTestAddin.dll" -d:"$(PWD)"
